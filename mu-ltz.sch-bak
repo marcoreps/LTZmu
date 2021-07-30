@@ -862,7 +862,7 @@ $EndComp
 Wire Wire Line
 	5000 1050 5650 1050
 Wire Wire Line
-	7550 1250 7550 1750
-Wire Wire Line
 	5950 1050 7750 1050
+Wire Wire Line
+	7550 1250 7550 1750
 $EndSCHEMATC
